@@ -1,0 +1,8 @@
+.env
+log.txt
+__pycache__/
+
+# Logs
+error.log
+# Database
+storage/*.db
